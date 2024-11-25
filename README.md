@@ -1,6 +1,4 @@
-[![Header](https://github.com/KAYOKG/BibliotecaDev/blob/main/.github/img/header.svg)](https://github.com/KAYOKG)
 
-<h2 align="center"> Sumário </h2>
 
 | Categorias | Descrição |
 |------------|------------|
