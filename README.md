@@ -1,6 +1,6 @@
 
 
-| Categorias | Descrição |
+| Categorias | Description |
 |------------|------------|
 | • [Algoritmos e Estruturas de Dados](#algoritmos-e-estruturas-de-dados) | Fundamentos teóricos e práticos de algoritmos e estruturas de dados, essenciais para a resolução eficiente de problemas de programação |
 | • [Arquitetura de Software](#arquitetura-de-software) | Princípios, conceitos e práticas relacionados à arquitetura de software, incluindo a estruturação, design e organização de sistemas de software |
